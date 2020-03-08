@@ -1,4 +1,4 @@
-# Kickstarter_analysis
+# Kickstarter analysis
 
 # Conclusions that can be drawn from the data:
 
